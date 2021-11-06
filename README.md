@@ -1,4 +1,4 @@
-<tilte>Привет, посетитель!</title>
+<h2> Привет, посетитель! </h2>
 
 👨   Описание моей личности:
 🚀   В данный момент занимаюсь разработкой проекта RelaxDay
@@ -8,3 +8,6 @@
 🛢   MySQL
 ⚙️   Git GitHub
 🔧   NodePad++ SublimeText VisualStudioCode Eclipse
+
+<a href="https://atgxxl.pw"><img alt="Website" src="https://img.shields.io/badge/WebSite-foammy.pw-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://vk.com/atgxxl/"><img alt="VK" src="https://img.shields.io/badge/VK-foammy-blue?style=flat-square&logo=vk"></a>
