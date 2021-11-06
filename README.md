@@ -17,5 +17,9 @@
   ![SublimeText](https://img.shields.io/badge/-SublimeText-333333?style=flat&logo=SublimeText)
   ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=VisualStudioCode)
 
+<h3> 🤝🏻 &nbsp;Связь со мной </h3>
+
+<p align="center">
 <a href="https://atgxxl.pw"><img alt="Website" src="https://img.shields.io/badge/WebSite-atgxxl.pw-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://vk.com/atgxxl/"><img alt="VK" src="https://img.shields.io/badge/VK-atgxxl-blue?style=flat-square&logo=vk"></a>
+<a href="mailto:atgxxl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-atgxxl@gmail.com-blue?style=flat-square&logo=gmail"></a>
