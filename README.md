@@ -3,10 +3,7 @@
 - 👨 &nbsp; Описание моей личности:
 - 🚀 &nbsp; В данный момент занимаюсь разработкой проекта RelaxDay
 - 💼 &nbsp; Играю в Minecraft ;)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🛠 &nbsp; Пастой не занимаюсь.
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
@@ -17,9 +14,11 @@
   ![SublimeText](https://img.shields.io/badge/-SublimeText-333333?style=flat&logo=SublimeText)
   ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=VisualStudioCode)
 
+- ⌚ &nbsp; Последние измнение: 29.01.2022 01:18
+
 <h3> 🤝🏻 &nbsp;Связь со мной </h3>
 
 <p align="center">
 <a href="https://atgxxl.pw"><img alt="Website" src="https://img.shields.io/badge/WebSite-atgxxl.pw-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://vk.com/atgxxl/"><img alt="VK" src="https://img.shields.io/badge/VK-atgxxl-blue?style=flat-square&logo=vk"></a>
-<a href="mailto:atgxxl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-atgxxl@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:me@atgxxl.pw"><img alt="Email" src="https://img.shields.io/badge/Email-me@atgxxl.pw-blue?style=flat-square&logo=gmail"></a>
