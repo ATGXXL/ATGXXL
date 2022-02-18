@@ -16,7 +16,7 @@
   ![SublimeText](https://img.shields.io/badge/-SublimeText-333333?style=flat&logo=SublimeText)
   ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=VisualStudioCode)
 
-- ⌚ &nbsp; Последние измнение: 29.01.2022 01:18
+- ⌚ &nbsp; Последние измнение: 18.02.2022 16:48
 
 <h3> 🤝🏻 &nbsp;Связь со мной </h3>
 
@@ -26,4 +26,4 @@
 <a href="https://vk.com/atgxxl/"><img alt="VK" src="https://img.shields.io/badge/VK-atgxxl-blue?style=flat-square&logo=vk"></a>
 <a href="mailto:me@atgxxl.pw"><img alt="Email" src="https://img.shields.io/badge/Email-me@atgxxl.pw-blue?style=flat-square&logo=gmail"></a>
 
-<h6> Привет кстати </h6>
+<h1> Привет кстати </h1>
