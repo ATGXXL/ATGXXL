@@ -29,5 +29,3 @@
 <a href="https://t.me/atgxxl"><img alt="TG" src="https://img.shields.io/badge/TG-atgxxl-blue?style=flat-square&logo=telegram"></a>
 <a href="https://vk.com/atgxxl/"><img alt="VK" src="https://img.shields.io/badge/VK-atgxxl-blue?style=flat-square&logo=vk"></a>
 <a href="mailto:me@atgxxl.pw"><img alt="Email" src="https://img.shields.io/badge/Email-me@atgxxl.pw-blue?style=flat-square&logo=gmail"></a>
-
-<h1> Привет кстати </h1>
