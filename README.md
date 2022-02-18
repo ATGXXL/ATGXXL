@@ -16,7 +16,11 @@
   ![SublimeText](https://img.shields.io/badge/-SublimeText-333333?style=flat&logo=SublimeText)
   ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=VisualStudioCode)
 
-- ⌚ &nbsp; Последние измнение: 18.02.2022 16:48
+- ⌚ &nbsp; Последние измнение: 18.02.2022 16:49
+
+<h3> 📈 &nbsp;Моя статистика </h3>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=atgxxl&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atgxxl&theme=dark&langs_count=10&layout=compact&hide_border=true"/>
 
 <h3> 🤝🏻 &nbsp;Связь со мной </h3>
 
