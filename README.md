@@ -1,7 +1,7 @@
 <h2> Привет, посетитель! </h2>
 
 - 👨 &nbsp; Описание моей личности:
-- 🚀 &nbsp; В данный момент занимаюсь разработкой проекта SMARTMINE
+- 🚀 &nbsp; ---------------------------------
 - 💼 &nbsp; Играю в Minecraft ;)
 
 <h3> Используемые инструмениы </h3>
@@ -24,6 +24,6 @@
 <h3> 🤝🏻 &nbsp;Связь со мной </h3>
 
 <p align="center">
-<a href="https://atgxxl.pw"><img alt="Website" src="https://img.shields.io/badge/WebSite-atgxxl.pw-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://shutov.pw"><img alt="Website" src="https://img.shields.io/badge/WebSite-shutov.pw-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://t.me/atgxxl"><img alt="TG" src="https://img.shields.io/badge/TG-atgxxl-blue?style=flat-square&logo=telegram"></a>
 <a href="https://vk.com/atgxxl/"><img alt="VK" src="https://img.shields.io/badge/VK-atgxxl-blue?style=flat-square&logo=vk"></a>
