@@ -14,7 +14,7 @@
 
 # Мои Проекты:
 
-HOLLYWORLD:
+- HOLLYWORLD:
 
 \[ [VK](https://vk.com/hw_fun) \]
 \[ [DONATE](https://hollyworld.fun) \]
