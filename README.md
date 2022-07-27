@@ -8,17 +8,11 @@
 
 - Ставь лайк, если ты мой фанат! 👍🏻
 
-# Мои соц.сети:
+<h3> 📱 &nbsp;Связь со мной </h3>
 
-\[ [VK](https://vk.com/atgxxl2) \]
-\[ [SITE](https://atgxxl.hollyworld.fun) \]
-\[ [TG](https://t.me/atgxxl) \]
-
-# Мои Проекты:
-
-- HOLLYWORLD:
-
-\[ [VK](https://vk.com/hw_fun) \]
-\[ [DONATE](https://hollyworld.fun) \]
-\[ [DISCORD](https://discord.hollyworld.fun) \]
-\[ [TG](https://t.me/hw_fun) \]
+<p align="center">
+<a href="https://atgxxl.hollyworld.fun"><img alt="Website" src="https://img.shields.io/badge/WebSite-atgxxl.hollyworld.fun-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://t.me/atgxxl"><img alt="TG" src="https://img.shields.io/badge/TG-atgxxl-blue?style=flat-square&logo=telegram"></a>
+<a href="https://youtube.com/channel/UCQX3RPhGOhmyeuoRe2vQbiA/"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-atgxxl-blue?style=flat-square&logo=youtube"></a>
+<a href="mailto:atgxxl@hollyworld.fun"><img alt="Email" src="https://img.shields.io/badge/Email-atgxxl@hollyworld.fun-blue?style=flat-square&logo=gmail"></a>
+</p>
