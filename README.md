@@ -6,14 +6,6 @@
 - Делаю сборки, в будущем буду учить япы (языки программирования)
 - Так-же разбираюсь в настройке сервера LINUX
 
-Мои проекты:
-
-- https://vk.com/netherworld_ru
-- https://t.me/netherworld_ru
-- https://nether-world.ru
-- https://discord.nether-world.ru
-- mc.nether-world.ru [1.12.2-1.18 MINECRAFT]
-
 <h3> 📱 &nbsp;Связь со мной </h3>
 
 <p align="center">
